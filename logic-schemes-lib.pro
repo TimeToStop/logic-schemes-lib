@@ -50,4 +50,5 @@ HEADERS += \
     src/userinput/userinput.h
 
 DISTFILES += \
-    .gitignore
+    .gitignore \
+    readme.mb
