@@ -51,4 +51,4 @@ HEADERS += \
 
 DISTFILES += \
     .gitignore \
-    readme.mb
+    readme.md
